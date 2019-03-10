@@ -1,7 +1,9 @@
 
 
 using System.Collections.Generic;
+using addressBook.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace addressBook.Controllers
 {
@@ -10,14 +12,21 @@ namespace addressBook.Controllers
     public class AddressBookController : ControllerBase
     {
 
+        private readonly AddressBookContext _context;
 
+        public AddressBookController(AddressBookContext context)
+        {
+            _context = context;
+
+        }
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        [Produces("application/json")]
+        public List<AddressBook> Get()
         {
-            return new string[] { "value1", "value2", "value3", "value4" };
+            return _context.AddressBooks.ToList();
+
+
         }
     }
-
-
 }

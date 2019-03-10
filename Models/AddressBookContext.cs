@@ -13,7 +13,7 @@ namespace addressBook.Models
 
         //public DbSet<Disp> Disps { get; set; }
 
-        public DbSet<Contact> Contacts { get; set; }
+        public DbSet<AddressBook> AddressBooks { get; set; }
 
 
 
