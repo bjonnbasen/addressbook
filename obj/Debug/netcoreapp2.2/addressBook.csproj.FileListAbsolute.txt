@@ -1,0 +1,14 @@
+C:\azure_learning\azure_code\addressBook\addressBook\bin\Debug\netcoreapp2.2\addressBook.deps.json
+C:\azure_learning\azure_code\addressBook\addressBook\bin\Debug\netcoreapp2.2\addressBook.runtimeconfig.json
+C:\azure_learning\azure_code\addressBook\addressBook\bin\Debug\netcoreapp2.2\addressBook.runtimeconfig.dev.json
+C:\azure_learning\azure_code\addressBook\addressBook\bin\Debug\netcoreapp2.2\addressBook.dll
+C:\azure_learning\azure_code\addressBook\addressBook\bin\Debug\netcoreapp2.2\addressBook.pdb
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.csprojAssemblyReference.cache
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.csproj.CoreCompileInputs.cache
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.RazorAssemblyInfo.cache
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.RazorAssemblyInfo.cs
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.AssemblyInfoInputs.cache
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.AssemblyInfo.cs
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.RazorTargetAssemblyInfo.cache
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.dll
+C:\azure_learning\azure_code\addressBook\addressBook\obj\Debug\netcoreapp2.2\addressBook.pdb
