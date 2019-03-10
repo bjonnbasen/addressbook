@@ -28,7 +28,8 @@ namespace addressBook
         public void ConfigureServices(IServiceCollection services)
         {
 
-            //ssudashboard db
+
+
             var adbookDbEnvString = Environment.GetEnvironmentVariable("AddressBookDatabase");
             services.AddDbContext<AddressBookContext>(opt => opt.UseSqlServer(adbookDbEnvString));
             services.AddMvc();
